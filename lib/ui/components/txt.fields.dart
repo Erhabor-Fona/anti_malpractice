@@ -1,5 +1,7 @@
 
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:form_validator/form_validator.dart';
 
 class TextAuthTextField extends StatelessWidget {
   final String? label;
