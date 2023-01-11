@@ -22,3 +22,9 @@ TextStyle kTextFieldLabelNoFocus = GoogleFonts.roboto(
     fontSize: 12.sp,
     fontWeight: FontWeight.w500,
     color: kWhiteText.withOpacity(0.38));
+
+TextStyle kTextFieldInputCharacterStyle = GoogleFonts.roboto(
+    fontWeight: FontWeight.w500,
+    fontStyle: FontStyle.normal,
+    color: kWhiteText,
+    letterSpacing: 0.25);
